@@ -1,4 +1,4 @@
-.. figure:: https://github.com/pybind/pybind11/raw/master/docs/pybind11-logo.png
+.. figure:: https://github.com/Unity-Billal-mesloub/pybind11/raw/main/docs/pybind11-logo.png
    :alt: pybind11 logo
 
 **pybind11 (v3)  — Seamless interoperability between C++ and Python**
@@ -9,9 +9,9 @@
 
 |Repology| |PyPI package| |Conda-forge| |Python Versions|
 
-`Setuptools example <https://github.com/pybind/python_example>`_
-• `Scikit-build example <https://github.com/pybind/scikit_build_example>`_
-• `CMake example <https://github.com/pybind/cmake_example>`_
+`Setuptools example <https://github.com/Unity-Billal-mesloub/python_example>`_
+• `Scikit-build example <https://github.com/Unity-Billal-mesloub/scikit_build_example>`_
+• `CMake example <https://github.com/Unity-Billal-mesloub/cmake_example>`_
 
 .. start
 
@@ -48,7 +48,7 @@ Tutorial and reference documentation is provided at
 A PDF version of the manual is available
 `here <https://pybind11.readthedocs.io/_/downloads/en/latest/pdf/>`_.
 And the source code is always available at
-`github.com/pybind/pybind11 <https://github.com/pybind/pybind11>`_.
+`github.com/pybind/pybind11 <https://github.com/Unity-Billal-mesloub/pybind11>`_.
 
 
 Core features
@@ -126,7 +126,7 @@ Supported platforms & compilers
 pybind11 is exercised in continuous integration across a range of operating
 systems, Python versions, C++ standards, and toolchains. For an up-to-date
 view of the combinations we currently test, please see the
-`pybind11 GitHub Actions <https://github.com/pybind/pybind11/actions?query=branch%3Amaster>`_
+`pybind11 GitHub Actions <https://github.com/Unity-Billal-mesloub/pybind11/actions?query=branch%3Amaster>`_
 logs.
 
 The test matrix naturally evolves over time as older platforms and compilers
@@ -176,40 +176,5 @@ We thank Google for a generous financial contribution to the continuous
 integration infrastructure used by this project.
 
 
-Contributing
-~~~~~~~~~~~~
-
-See the `contributing
-guide <https://github.com/pybind/pybind11/blob/master/.github/CONTRIBUTING.md>`_
-for information on building and contributing to pybind11.
-
-License
-~~~~~~~
-
-pybind11 is provided under a BSD-style license that can be found in the
-`LICENSE <https://github.com/pybind/pybind11/blob/master/LICENSE>`_
-file. By using, distributing, or contributing to this project, you agree
-to the terms and conditions of this license.
-
-.. |Latest Documentation Status| image:: https://readthedocs.org/projects/pybind11/badge?version=latest
-   :target: http://pybind11.readthedocs.org/en/latest
-.. |Stable Documentation Status| image:: https://img.shields.io/badge/docs-stable-blue.svg
-   :target: http://pybind11.readthedocs.org/en/stable
-.. |Gitter chat| image:: https://img.shields.io/gitter/room/gitterHQ/gitter.svg
-   :target: https://gitter.im/pybind/Lobby
-.. |CI| image:: https://github.com/pybind/pybind11/workflows/CI/badge.svg
-   :target: https://github.com/pybind/pybind11/actions
-.. |Build status| image:: https://ci.appveyor.com/api/projects/status/riaj54pn4h08xy40?svg=true
-   :target: https://ci.appveyor.com/project/wjakob/pybind11
-.. |PyPI package| image:: https://img.shields.io/pypi/v/pybind11.svg
-   :target: https://pypi.org/project/pybind11/
-.. |Conda-forge| image:: https://img.shields.io/conda/vn/conda-forge/pybind11.svg
-   :target: https://github.com/conda-forge/pybind11-feedstock
-.. |Repology| image:: https://repology.org/badge/latest-versions/python:pybind11.svg
-   :target: https://repology.org/project/python:pybind11/versions
-.. |Python Versions| image:: https://img.shields.io/pypi/pyversions/pybind11.svg
-   :target: https://pypi.org/project/pybind11/
-.. |GitHub Discussions| image:: https://img.shields.io/static/v1?label=Discussions&message=Ask&color=blue&logo=github
-   :target: https://github.com/pybind/pybind11/discussions
-.. |SPEC 4 — Using and Creating Nightly Wheels| image:: https://img.shields.io/badge/SPEC-4-green?labelColor=%23004811&color=%235CA038
+hields.io/badge/SPEC-4-green?labelColor=%23004811&color=%235CA038
    :target: https://scientific-python.org/specs/spec-0004/
